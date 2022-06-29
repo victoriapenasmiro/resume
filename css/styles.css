@@ -447,7 +447,8 @@ mark,
   padding-left: 0;
   list-style: none;
   display: flex;
-  justify-content: space-around;
+  justify-content: flex-start;
+  flex-wrap: wrap;
 }
 
 .list-inline-item {
